@@ -1,0 +1,30 @@
+{
+  "Object": "SBQQ__TemplateContent__c",
+  "Fields": {
+    "GearsetDisplayName": "Training Regular Amount Total",
+    "GearsetExternalId__c": "UAQNlXe000000Ld31a",
+    "Name": "Training Regular Amount Total",
+    "SBQQ__CustomSource__c": "",
+    "SBQQ__FontFamily__c": "",
+    "SBQQ__FontSize__c": "8.0",
+    "SBQQ__Markup__c": "",
+    "SBQQ__RawMarkup__c": [
+      "<table align=\"right\" border=\"1\" cellpadding=\"3\" cellspacing=\"1\" style=\"width:100px;\">",
+      "\t<tbody>",
+      "\t\t<tr>",
+      "\t\t\t<td style=\"padding: 3px;\">",
+      "\t\t\t<p style=\"text-align: right;\"><strong>Regular Total:&#160;</strong></p>",
+      "\t\t\t</td>",
+      "\t\t\t<td style=\"width: 15%; border: thin solid black; padding: 3px;\">",
+      "\t\t\t<p style=\"text-align: right;\"><strong>{!quote.SBQQ__RegularAmount__c}</strong></p>",
+      "\t\t\t</td>",
+      "\t\t</tr>",
+      "\t</tbody>",
+      "</table>"
+    ],
+    "SBQQ__TableStyle__c": "Standard",
+    "SBQQ__TextColor__c": "",
+    "SBQQ__Type__c": "HTML"
+  },
+  "References": []
+}

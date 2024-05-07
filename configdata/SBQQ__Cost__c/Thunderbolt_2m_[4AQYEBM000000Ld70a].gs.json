@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "Thunderbolt 2m",
+    "GearsetExternalId__c": "4AQYEBM000000Ld70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "15.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAQzzvc000000Ldt10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "Copy Machine",
+    "GearsetExternalId__c": "4AQHFBM000000Ld70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "1600.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAQZ0wc000000Ldt10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Object": "ConsumptionSchedule",
+  "Fields": {
+    "BillingTerm": "1",
+    "BillingTermUnit": "Month",
+    "Description": "",
+    "GearsetDisplayName": "Text",
+    "GearsetExternalId__c": "MASyJV0000000LdhM0",
+    "IsActive": "true",
+    "MatchingAttribute": "",
+    "Name": "Text",
+    "RatingMethod": "Tier",
+    "SBQQ__Category__c": "Rates",
+    "Type": "Slab",
+    "UnitOfMeasure": "Messages"
+  },
+  "References": []
+}

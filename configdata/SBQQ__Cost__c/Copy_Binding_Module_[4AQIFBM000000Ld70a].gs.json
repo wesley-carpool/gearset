@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "Copy Binding Module",
+    "GearsetExternalId__c": "4AQIFBM000000Ld70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "250.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAQa0wc000000Ldt10"
+      }
+    }
+  ]
+}

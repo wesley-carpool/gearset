@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "Copy Paper Letter",
+    "GearsetExternalId__c": "4AQMFBM000000Ld70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "50.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAQe0wc000000Ldt10"
+      }
+    }
+  ]
+}

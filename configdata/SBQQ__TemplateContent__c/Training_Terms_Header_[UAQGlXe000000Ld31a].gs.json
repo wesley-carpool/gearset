@@ -1,0 +1,17 @@
+{
+  "Object": "SBQQ__TemplateContent__c",
+  "Fields": {
+    "GearsetDisplayName": "Training Terms Header",
+    "GearsetExternalId__c": "UAQGlXe000000Ld31a",
+    "Name": "Training Terms Header",
+    "SBQQ__CustomSource__c": "",
+    "SBQQ__FontFamily__c": "Helvetica",
+    "SBQQ__FontSize__c": "8.0",
+    "SBQQ__Markup__c": "",
+    "SBQQ__RawMarkup__c": "<p style=\"font-size: 16pt; color: #05A0DF;\">Terms and Conditions</p>",
+    "SBQQ__TableStyle__c": "Standard",
+    "SBQQ__TextColor__c": "000000",
+    "SBQQ__Type__c": "HTML"
+  },
+  "References": []
+}

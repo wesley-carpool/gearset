@@ -1,0 +1,18 @@
+{
+  "Object": "ConsumptionSchedule",
+  "Fields": {
+    "BillingTerm": "1",
+    "BillingTermUnit": "Month",
+    "Description": "",
+    "GearsetDisplayName": "Data",
+    "GearsetExternalId__c": "MASzJV0000000LdhM0",
+    "IsActive": "true",
+    "MatchingAttribute": "",
+    "Name": "Data",
+    "RatingMethod": "Tier",
+    "SBQQ__Category__c": "Rates",
+    "Type": "Slab",
+    "UnitOfMeasure": "MB"
+  },
+  "References": []
+}

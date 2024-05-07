@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "RAM 8GB",
+    "GearsetExternalId__c": "OAQoEBM000000Ld70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "25.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAQpzvc000000Ldt10"
+      }
+    }
+  ]
+}

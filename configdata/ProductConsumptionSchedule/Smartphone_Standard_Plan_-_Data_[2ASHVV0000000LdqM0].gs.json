@@ -1,0 +1,23 @@
+{
+  "Object": "ProductConsumptionSchedule",
+  "Fields": {
+    "GearsetDisplayName": "Smartphone Standard Plan - Data",
+    "GearsetExternalId__c": "2ASHVV0000000LdqM0"
+  },
+  "References": [
+    {
+      "Name": "ConsumptionSchedule",
+      "ReferencedObject": "ConsumptionSchedule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MASzJV0000000LdhM0"
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAQxzvc000000Ldt10"
+      }
+    }
+  ]
+}

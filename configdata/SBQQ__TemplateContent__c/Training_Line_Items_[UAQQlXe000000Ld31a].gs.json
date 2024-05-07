@@ -1,0 +1,17 @@
+{
+  "Object": "SBQQ__TemplateContent__c",
+  "Fields": {
+    "GearsetDisplayName": "Training Line Items",
+    "GearsetExternalId__c": "UAQQlXe000000Ld31a",
+    "Name": "Training Line Items",
+    "SBQQ__CustomSource__c": "",
+    "SBQQ__FontFamily__c": "Helvetica",
+    "SBQQ__FontSize__c": "8.0",
+    "SBQQ__Markup__c": "",
+    "SBQQ__RawMarkup__c": "",
+    "SBQQ__TableStyle__c": "Standard",
+    "SBQQ__TextColor__c": "",
+    "SBQQ__Type__c": "Line Items"
+  },
+  "References": []
+}

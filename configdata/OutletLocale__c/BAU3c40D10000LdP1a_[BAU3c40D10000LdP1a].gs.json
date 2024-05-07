@@ -1,0 +1,19 @@
+{
+  "Object": "OutletLocale__c",
+  "Fields": {
+    "GearsetDisplayName": "BAU3c40D10000LdP1a",
+    "GearsetExternalId__c": "BAU3c40D10000LdP1a",
+    "OLCountry__c": "France",
+    "OLRequired__c": "false",
+    "OLType__c": "Enable"
+  },
+  "References": [
+    {
+      "Name": "OLProduct__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAQe1wc000000Ldt10"
+      }
+    }
+  ]
+}

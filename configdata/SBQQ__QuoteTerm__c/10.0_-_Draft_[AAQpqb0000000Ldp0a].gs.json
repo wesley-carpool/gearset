@@ -1,0 +1,37 @@
+{
+  "Object": "SBQQ__QuoteTerm__c",
+  "Fields": {
+    "GearsetDisplayName": "10.0 - Draft",
+    "GearsetExternalId__c": "AAQpqb0000000Ldp0a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__AdvancedCondition__c": "",
+    "SBQQ__Body__c": "This quote is presented to the customer under the condition that it remains a valid quote for only 15 days after the stated Quote Date, after which the quote becomes null and void.",
+    "SBQQ__ConditionsMet__c": "All",
+    "SBQQ__Locked__c": "false",
+    "SBQQ__PrintOrder__c": "10.0",
+    "SBQQ__Status__c": "Draft"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__ParentTerm__r",
+      "ReferencedObject": "SBQQ__QuoteTerm__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__StandardTerm__r",
+      "ReferencedObject": "SBQQ__QuoteTerm__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__TemplateContent__r",
+      "ReferencedObject": "SBQQ__TemplateContent__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}
